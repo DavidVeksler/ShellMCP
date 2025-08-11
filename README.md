@@ -12,6 +12,7 @@ to an LLM host (e.g. LM Studio).
   - `read_text(path, max_bytes, encoding)` – read text safely with byte caps
   - `write_text(path, text, mode, encoding)` – write or append text
   - `checksum(path, algo)` – calculate file hashes (sha256, md5, etc.)
+  - 'get_context - TODO
 - Root directory enforcement (commands and file ops cannot leave allowed roots)
 - Output truncation and per-command timeouts
 - JSON-structured results for easy parsing by the model
