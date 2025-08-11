@@ -2,6 +2,9 @@
 
 A **FastMCP** server exposing safe Windows/PowerShell automation to tool-using LLMs (LM Studio, LangChain, etc.). Tight sandboxing, deterministic outputs, and Windows-first ergonomics.
 
+<img width="1505" height="1609" alt="image" src="https://github.com/user-attachments/assets/64f96aef-93e4-485e-865f-6cca7cfe85d2" />
+
+
 ---
 
 ## Features
