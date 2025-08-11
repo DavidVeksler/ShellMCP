@@ -1,0 +1,7 @@
+# Core MCP server framework
+mcp[fastmcp]>=1.12.4
+
+# Optional: if you want ripgrep-powered search later
+# python-ripgrep>=0.2.0
+
+# Only stdlib used otherwise
