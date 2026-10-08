@@ -1,5 +1,5 @@
 # Core MCP server framework
-mcp[fastmcp]>=2.0.0
+mcp[fastmcp]>=2.3.0
 
 # Optional: if you want ripgrep-powered search later
 # python-ripgrep>=0.2.0
